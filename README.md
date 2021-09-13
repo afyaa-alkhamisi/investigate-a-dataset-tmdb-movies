@@ -1,4 +1,4 @@
-# investigate-a-dataset-tmdb-movies
+# Investigate A Dataset TMDB Movies
 ##  Project Overview
 In this project, we will analyze TMDb Movies related data. Investigating the dataset using tmbd_movies.csv dataset, and it (cleaned from original data on [Kaggle](https://www.kaggle.com/tmdb/tmdb-movie-metadata)). 
 This data set contains information about 10,000 movies collected from The Movie Database (TMDb), including user ratings and revenue.
@@ -30,7 +30,7 @@ numPy
 matplotlib
 seaborn
 ```
-> It will be recommend to installing Anaconda, which comes with all of the necessary packages, as well as IPython notebook.
+> It will be recommend to installing Anaconda, which comes with all of the necessary packages.
 
 ## Run
 To run this project navigate to project directory in terminal and then use following command.
@@ -40,4 +40,4 @@ jupyter notebook investigate-a-dataset-tmdb-movies.ipynb
 ```
 
 ## Licensing and Acknowledgements
-This project was presented as part of the data analyst nanodegree program at Udacity.
+This project was presented as part of the Data Analyst Nanodegree Program at Udacity.
